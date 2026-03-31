@@ -59,11 +59,11 @@ This project focuses on classifying text documents into different categories usi
 
 ---
 
-## 👩‍💻 Author  
-Deepti Tripathi
-Riddhi Sharma
-Mahi Amit Randive
-Tanay Naik
+## 👩‍💻 Authors  
+- Deepti Tripathi  
+- Riddhi Sharma  
+- Mahi Amit Randive  
+- Tanay Naik  
 
 ---
 
